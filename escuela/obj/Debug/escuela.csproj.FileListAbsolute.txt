@@ -1,0 +1,217 @@
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.exe
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\MySql.Data.dll
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.exe
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registrosemple.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+C:\Users\Paola\Desktop\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.exe
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.exe
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.exe
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.exe
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+F:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros_empleados.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.exe
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros_empleados.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.exe
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros_empleados.resources
+I:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pedidos.resources
+J:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pedidos.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.exe
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pedidos.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros_empleados.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.exe
+E:\Nueva carpeta (3)\Nueva carpeta (2)\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\bin\Debug\escuela.exe
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemp.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.pedidos.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros_empleados.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.exe
+C:\Users\Paola\Desktop\pendriver\Nueva carpeta (6)\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemple.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.pedidos.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registroemple.resources
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+J:\programa de ing - copia\p3_profesores-master\escuela\bin\Debug\escuela.exe
+J:\programa de ing - copia\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.exe
+J:\programa de ing - copia\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemple.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registrocompra.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registroemple.resources
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.exe
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.exe
+J:\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.exe
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemple.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registrocompra.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registroemple.resources
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.exe
+C:\Users\Paola\Desktop\Nueva carpetass\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.exe
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\bin\Debug\escuela.pdb
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editar.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editaremple.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Escritorios.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Factura.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Lockers.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.MainForm.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Menu.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevoemple.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registrocompra.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registros.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Nuevo.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Registroemple.resources
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.exe
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.pdb
+J:\c#\copia del porgrama de ing\programa de ing - copia - copia\p3_profesores-master\escuela\obj\Debug\escuela.Editarcompra.resources
+I:\c#\escuela\bin\Debug\escuela.exe
+I:\c#\escuela\bin\Debug\escuela.pdb
+I:\c#\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+I:\c#\escuela\obj\Debug\escuela.Editar.resources
+I:\c#\escuela\obj\Debug\escuela.Editarcompra.resources
+I:\c#\escuela\obj\Debug\escuela.Editaremple.resources
+I:\c#\escuela\obj\Debug\escuela.Escritorios.resources
+I:\c#\escuela\obj\Debug\escuela.Factura.resources
+I:\c#\escuela\obj\Debug\escuela.Lockers.resources
+I:\c#\escuela\obj\Debug\escuela.MainForm.resources
+I:\c#\escuela\obj\Debug\escuela.Menu.resources
+I:\c#\escuela\obj\Debug\escuela.Nuevoemple.resources
+I:\c#\escuela\obj\Debug\escuela.Registrocompra.resources
+I:\c#\escuela\obj\Debug\escuela.Registros.resources
+I:\c#\escuela\obj\Debug\escuela.Nuevo.resources
+I:\c#\escuela\obj\Debug\escuela.Registroemple.resources
+I:\c#\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+I:\c#\escuela\obj\Debug\escuela.exe
+I:\c#\escuela\obj\Debug\escuela.pdb
+I:\c#\escuela\bin\Debug\MySql.Data.dll
+G:\c#\escuela\bin\Debug\escuela.exe
+G:\c#\escuela\bin\Debug\escuela.pdb
+G:\c#\escuela\bin\Debug\MySql.Data.dll
+G:\c#\escuela\obj\Debug\escuela.csprojResolveAssemblyReference.cache
+G:\c#\escuela\obj\Debug\escuela.Editar.resources
+G:\c#\escuela\obj\Debug\escuela.Editarcompra.resources
+G:\c#\escuela\obj\Debug\escuela.Editaremple.resources
+G:\c#\escuela\obj\Debug\escuela.Escritorios.resources
+G:\c#\escuela\obj\Debug\escuela.Factura.resources
+G:\c#\escuela\obj\Debug\escuela.Lockers.resources
+G:\c#\escuela\obj\Debug\escuela.MainForm.resources
+G:\c#\escuela\obj\Debug\escuela.Menu.resources
+G:\c#\escuela\obj\Debug\escuela.Nuevoemple.resources
+G:\c#\escuela\obj\Debug\escuela.Registrocompra.resources
+G:\c#\escuela\obj\Debug\escuela.Registros.resources
+G:\c#\escuela\obj\Debug\escuela.Nuevo.resources
+G:\c#\escuela\obj\Debug\escuela.Registroemple.resources
+G:\c#\escuela\obj\Debug\escuela.csproj.GenerateResource.Cache
+G:\c#\escuela\obj\Debug\escuela.exe
+G:\c#\escuela\obj\Debug\escuela.pdb
